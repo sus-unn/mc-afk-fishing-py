@@ -1,5 +1,4 @@
 import pyautogui
-import time
 
 x = pyautogui.size()[0] / 2.0274
 y = pyautogui.size()[1] / 3.0594
